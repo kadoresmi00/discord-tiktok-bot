@@ -1,0 +1,12 @@
+{
+    "name": "kado",
+    "version": "1.0.0",
+    "main": "index.js",
+    "author": "Kado",
+    "license": "MIT",
+    "dependencies": {
+        "discord.js": "^12.5.3",
+        "easy-json-database": "^1.3.0",
+        "tiktok-scraper": "^1.4.23"
+    }
+}
